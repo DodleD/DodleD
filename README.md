@@ -1,10 +1,9 @@
-## 개발 마라토너 Dodle입니다! 👋
+## 개발 마라토너 DoHeon입니다! 👋
 <div align="left">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DodleD&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodleD&layout=compact)
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh03077)](https://solved.ac/kdh03077)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodleD&layout=compact)
 
   ## 💻 DEV's log 💻
   <div style="display:flex; flex-direction:row;">
