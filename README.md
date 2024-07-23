@@ -3,20 +3,17 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DodleD&show_icons=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DodleD&layout=compact)
-  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdh03077)](https://solved.ac/kdh03077)
 
 
   ## 💻 DEV's log 💻
   <div style="display:flex; flex-direction:row;">
-      <a href="https://easyhomputer.tistory.com">
+      <a href="https://dodledd.tistory.com">
           <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
       </a>
-      <a href="https://www.notion.so/homputer/Notion-3a51e19fa20a4c08a3c1d281a7a2c741">
+      <a href="https://phrygian-velvet-362.notion.site/0d38302e89104368957f09f05547e282?pvs=4">
           <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
       </a>
-    
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://dodledd.tistory.com/)
   </div><br>
 
   ## 🔨 Once I've used 🔨
